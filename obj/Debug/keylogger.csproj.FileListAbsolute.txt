@@ -1,0 +1,8 @@
+D:\C#Workspace\WorkSpace\keylogger\bin\Debug\keylogger.exe.config
+D:\C#Workspace\WorkSpace\keylogger\bin\Debug\keylogger.exe
+D:\C#Workspace\WorkSpace\keylogger\bin\Debug\keylogger.pdb
+D:\C#Workspace\WorkSpace\keylogger\obj\Debug\keylogger.csproj.AssemblyReference.cache
+D:\C#Workspace\WorkSpace\keylogger\obj\Debug\keylogger.csproj.SuggestedBindingRedirects.cache
+D:\C#Workspace\WorkSpace\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+D:\C#Workspace\WorkSpace\keylogger\obj\Debug\keylogger.exe
+D:\C#Workspace\WorkSpace\keylogger\obj\Debug\keylogger.pdb
